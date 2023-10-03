@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Tema2_CalculadoraBasica"
         mc:Ignorable="d"
-        Title="MainWindow" Height="376" Width="664">
+        Title="Calculadora básica" Height="376" Width="664">
     <Grid>
         <Label Content="Calculadora Básica" HorizontalAlignment="Left" Margin="67,30,0,0" VerticalAlignment="Top" Height="70" Width="305" FontFamily="Agency FB" FontSize="48"/>
         <TextBox x:Name="PrimerNumeroTextBox" HorizontalAlignment="Left" Margin="188,130,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="112" Height="29" FontFamily="Agency FB"/>

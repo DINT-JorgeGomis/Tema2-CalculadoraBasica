@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\alumno\Desktop\DISEÑO DE INTERFACES\Tema2-CalculadoraBasica\Tema2-CalculadoraBasica\Tema2-CalculadoraBasica\obj\Debug\net6.0-windows\
+C:\Users\alumno\Desktop\DISEÑO DE INTERFACES\Tema2-CalculadoraBasica\Tema2-CalculadoraBasica\Tema2-CalculadoraBasica\obj\Release\net6.0-windows\
 Tema2_CalculadoraBasica
 none
 false
-TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+TRACE;RELEASE;NET;NET6_0;NETCOREAPP
 C:\Users\alumno\Desktop\DISEÑO DE INTERFACES\Tema2-CalculadoraBasica\Tema2-CalculadoraBasica\Tema2-CalculadoraBasica\App.xaml
 11407045341
 1957726755
